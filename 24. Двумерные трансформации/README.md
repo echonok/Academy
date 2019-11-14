@@ -1,5 +1,5 @@
+![logo](https://assets.htmlacademy.ru/img/achievements/courses/dynamic/71.v2.svg "logo")
 https://htmlacademy.ru/courses/71
-![alt text](https://assets.htmlacademy.ru/img/achievements/courses/dynamic/71.v2.svg "Logo Title Text 1")
 ## Двумерные трансформации
 
 Будем крутить, наклонять, перемещать, уменьшать и увеличивать объекты, а также взрывать их фаерболами, телепортироваться и использовать телекинез. Ну и, конечно, разберём крутые приёмы использования трансформаций для создания декоративных эффектов.
